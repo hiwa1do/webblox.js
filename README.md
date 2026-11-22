@@ -3,7 +3,7 @@
 This is a fork of a [webblox](https://github.com/x8rr/webblox-built) server, written in a single JavaScript file made for Cloudflare Workers.
 
 ## Installation:
-Download [/src/worker.js](https://github.com/hiwa1do/wisp.js/blob/main/src/worker.js)
+Download [/src/worker.js](https://github.com/hiwa1do/webblox.js/blob/main/src/worker.js)
 
 Go to Cloudflare Workers & Pages
 
