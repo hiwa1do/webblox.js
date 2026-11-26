@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 const DEFAULT_WISP_PATH = "/wisp/";
 
-const SCRAMJET_REPO = "https://cdn.jsdelivr.net/gh/hiwa1do/scramjet-browser@main";
+const SCRAMJET_REPO = "https://cdn.jsdelivr.net/gh/hiwa1do/scramjet-browser@head";
 const WEBBLOX_REPO = "https://cdn.jsdelivr.net/gh/x8rr/webblox-built@main/webblox";
 const EPOXY_URL = "https://cdn.jsdelivr.net/npm/@mercuryworkshop/epoxy-transport@3/dist/index.mjs";
 const ROBLOX_VERSION_URL = "https://clientsettings.roblox.com/v2/client-version/WebClientApp";
